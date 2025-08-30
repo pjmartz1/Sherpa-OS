@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Sherpa.svg" alt="Sherpa OS" width="200"/>
+</div>
+
 # 🏔️ Sherpa OS
 
 > **Local-first CLI for solo AI coders**  
