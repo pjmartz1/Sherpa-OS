@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Sherpa.svg" alt="Sherpa OS" width="200"/>
+  <img src="<img width="750" height="750" alt="Sherpa" src="https://github.com/user-attachments/assets/28e245b7-b290-4302-b2d2-73c917215ec2" />" alt="Sherpa OS" width="200"/>
 </div>
 
 # 🏔️ Sherpa OS
